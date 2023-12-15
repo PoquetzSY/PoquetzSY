@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PoquetzSY/Luis Gómez Flores
+- 👀 I’m interested in web design, front-end development, drawing, music and videogames.
+- 🗣️ My soft skills are critical thinking, creativity, patience, teamwork and perseverance.
+- 🌱 I’m currently learning React.JS
+- 📫 How to reach me via email: luisgomez7829@gmail.com
