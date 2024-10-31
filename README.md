@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PoquetzSY/Luis Gómez Flores
 - 👀 I’m interested in web design and front-end development.
 - 🗣️ My soft skills are critical thinking, creativity, patience, teamwork and perseverance.
-- 📫 How to reach me via email: luisgomez7829@gmail.com
+- 📫 How to reach me via email: poquetz.sy78@gmail.com
